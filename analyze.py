@@ -80,7 +80,7 @@ with open("students.csv", "rt") as f:
     math_average = math_grades / students
     python_average = python_grades / students
     english_average = english_grades / students
-    #print(math_average, python_average, english_average)
+
 
 
 # ============================================================
